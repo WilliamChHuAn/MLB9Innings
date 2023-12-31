@@ -1,2 +1,1 @@
-# MLB9Innings
-MLB 9 Innings 競技模式
+# MLB 9 Innings
